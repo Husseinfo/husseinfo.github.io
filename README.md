@@ -1,26 +1,50 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+<a href="http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/" target="_blank"><img src="http://themes.3rdwavemedia.com/wp-content/uploads/2014/07/Responsive-HTML5-CSS3-Website-Template-for-Developers.png" alt="Developer Theme" width="750" /></a>
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+##Theme Details & Demo
 
-## Getting Started
+**Demo:** http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+Developer theme is a free responsive website template designed to **help developers promote their work**. 
+It can be used as a **professional portal** to your other online portfolios or websites (eg. Linkedin, CoderWall, Blog, GitHub etc) **in a modular fashion**. 
+The template comes with all of the **source LESS files included** so the styling/colour can easily be customised to your taste.
 
-## Bugs and Issues
+##Author & License
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE under the [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
 
-## Creator
+If you'd like to **use the template without the attribution**, you can check out **other license options** via the [theme website](http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/)
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+####Follow Xiaoying
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+[Twitter](https://twitter.com/3rdwave_themes)
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+[Facebook](https://www.facebook.com/3rdwavethemes/)
 
-## Copyright and License
+[Dribbble](https://dribbble.com/Xiaoying)
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.# husseinfo.github.io
+[Linkedin](https://uk.linkedin.com/in/xiaoying)
+
+
+##Latest Version
+**v1.5** - 07 Jan 2016
+
+[Changelog](http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/)
+
+
+##Features
+
+-  Fully Responsive
+-  HTML5 + CSS3
+-  Built on Bootstrap 3.x
+-  600+ FontAwesome icons
+-  **LESS** files included
+
+##Credits
+- [Bootstrap](http://getbootstrap.com/)
+- [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
+- [jQuery](http://jquery.com/)
+- [GitHub Activity Stream](http://caseyscarborough.com/projects/github-activity/)
+- [GitHub Calendar Plugin](https://github.com/IonicaBizau/github-calendar)
+- [jQuery RSS](https://github.com/sdepold/jquery-rss)
+- Profile image: [Ben Smith](https://www.flickr.com/photos/dotbenjamin/2577394151)
+- iPad and iPhone mocks: [Regy Perlera](https://dribbble.com/perlerar)
